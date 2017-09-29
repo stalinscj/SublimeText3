@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"ApplySyntax",
+		"Blade Snippets",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Emmet",
+		"GitGutter",
+		"INI",
+		"jQuery",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Laravel Blade Spacer",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php"
+	]
+}

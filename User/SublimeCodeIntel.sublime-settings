@@ -1,0 +1,8 @@
+{
+	"PHP": {
+		"php": "/usr/bin/php",
+        "phpConfigFile": "/etc/php/7.0/apache2/php.ini",
+        "codeintel_max_recursive_dir_depth": 20,
+        "codeintel_scan_exclude_dir":["/usr/bin/php"]
+	}
+}
